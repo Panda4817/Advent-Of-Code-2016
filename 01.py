@@ -1,4 +1,4 @@
-
+# Part 1 and 2 in part1 fu
 def part1(data):
   d = data.split(", ")
   current = (0, 0)

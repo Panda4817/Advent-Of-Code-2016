@@ -7,7 +7,7 @@ def part1(data):
     5: [5, 3],
     6: [17, 5],
     # Part 2 - add another disc
-    7: [11, 0]
+    # 7: [11, 0]
 }
 
   t = 0

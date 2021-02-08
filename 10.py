@@ -16,7 +16,6 @@ def part1(data):
   for i in instructions:
     parts = i.split()
     if parts[0] == 'value':
-      print(parts)
       bot_num = int(parts[-1])
       value_num = int(parts[1])
       place_in_bots(bot_num, value_num)
